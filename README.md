@@ -92,6 +92,10 @@ the repository includes the KiCad project files, schematics, BOM, Gerber exports
 #### Back
 <img src="journals/15-pcb-finished/3d-bottom.png" alt="board back" width="700" />
 
+### ZINE
+
+<img width="1587" height="2245" alt="FC" src="https://github.com/user-attachments/assets/c36e0b9a-81dc-48a2-b58b-6d7c4fb9b2c7" />
+
 ## Credits
 
 This project uses:
