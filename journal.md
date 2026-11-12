@@ -186,8 +186,14 @@ and the final 3D render
 
 <img src="images/4-final-3d.png" alt="final 3D" />
 
+
 pretty happy with how this turned out! managed to fit everything into a 39 x 39mm board.
 
 havent ordered or tested the PCB yet so still need to check the actual board and make sure everything works.
+
+## misc
+I ALSO MADE ZINE :D NOT COUNTING THE HOURS BECAUSE I FORGOT
+<img width="1587" height="2245" alt="FC" src="https://github.com/user-attachments/assets/c813ba87-d716-4f44-9d59-530aaf3a5f33" />
+
 
 TYSM FOR READING TILL HERE!!
